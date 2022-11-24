@@ -1,5 +1,3 @@
 
-#!/bin/bash 
-=======
-#!/bin/bash and echo "ALX School"
-
+#!/bin/bash
+echo "ALX School"
